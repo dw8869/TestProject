@@ -120,13 +120,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-    "com.unity.nuget.newtonsoft-json": {
-      "version": "3.0.1",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
     "com.unity.services.core": {
       "version": "1.0.1",
       "depth": 1,
@@ -183,56 +176,6 @@
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
-    },
-    "ifland.ucf.avprovideo": {
-      "version": "2.5.5",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://jumpvrapi-dev-upm.treal.xyz"
-    },
-    "ifland.ucf.core.bridge": {
-      "version": "0.1.22",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.nuget.newtonsoft-json": "3.0.1"
-      },
-      "url": "https://jumpvrapi-dev-upm.treal.xyz"
-    },
-    "ifland.ucf.media": {
-      "version": "0.1.19",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {
-        "ifland.ucf.core.bridge": "0.1.22",
-        "ifland.ucf.telepresence": "0.1.49",
-        "ifland.ucf.mrliscore": "0.1.0",
-        "ifland.ucf.avprovideo": "2.5.5",
-        "ifland.ucf.pdfrenderer": "5.51.0"
-      },
-      "url": "https://jumpvrapi-dev-upm.treal.xyz"
-    },
-    "ifland.ucf.mrliscore": {
-      "version": "0.1.0",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://jumpvrapi-dev-upm.treal.xyz"
-    },
-    "ifland.ucf.pdfrenderer": {
-      "version": "5.51.0",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://jumpvrapi-dev-upm.treal.xyz"
-    },
-    "ifland.ucf.telepresence": {
-      "version": "0.1.49",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://jumpvrapi-dev-upm.treal.xyz"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",

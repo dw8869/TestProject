@@ -1,0 +1,3 @@
+[submodule "Submodule1"]
+	path = Packages/Submodule1
+	url = https://github.com/dw8869/Submodule1.git
