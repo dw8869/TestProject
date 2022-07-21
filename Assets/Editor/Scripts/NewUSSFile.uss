@@ -1,0 +1,5 @@
+.noBordersTextField #unity-text-input{
+ 
+    background-color: clear;
+    border-width: 0px;
+}
